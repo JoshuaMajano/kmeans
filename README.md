@@ -1,1 +1,1 @@
-# kmeans-JoshuaMajano
+# KMeans Clustering Project - JoshuaMajano
